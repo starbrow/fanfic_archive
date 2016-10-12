@@ -1,0 +1,11 @@
+Fanfic Archive Project
+
+1. Purpose
+  a) Create a website/database that can store html + metadata to make an archive for fanfiction.
+  b) Allow commenting on individual stories.
+  c) Allow some form of likes/kudos/thumbs up.
+
+2. Schedule
+  a) By 31 October, start work on the Ruby programming.
+  b) By 31 December, have CRUD functionality up and running.
+  c) by 31 March, complete site ready for stories to be added. 
